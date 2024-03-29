@@ -7,10 +7,10 @@
 7. - Couche 2 : liaison et on trouve les switch (connecter différents appareils au même réseau local)
    - Couche 3 : réseau et on trouve les routeurs (utilisés pour interconnecter différents réseaux LAN, WAN, Internet)
    -
- 8. `cd` = set location ou cd
-   - `cp` = copy item
-   - `mkdir` = new item
-   - `ls` = get childitem
+ 8. cd = set location ou cd
+   - cp = copy item
+   - mkdir = new item
+   - ls = get childitem
      
 
 9.le payload fait référence aux données réelles qui sont transportées à travers le réseax 
