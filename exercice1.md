@@ -20,5 +20,8 @@ sudo fdisk /dev/sdb
 2.Choisi le type de partition 82 pour le swap Linux.
 
 
-Je n'ai pas réussi à la renommer, mais la commande pour cela est c.
+Je n'ai pas réussi à la renommer, mais la commande pour cela est c
+
+
+J'ai laissé des photos à disposition
 
